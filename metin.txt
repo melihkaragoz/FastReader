@@ -1,5 +1,10 @@
-Öncelikle plazmayı ve onunla birlikte gelen birçok aracı ve ince ayarı kesinlikle seviyorum. Bazen, tüm kurulumu daha minimalist hale getirmek için gerekli olmayan bazı kde uygulamalarını kaldırmanın daha kolay olacağını, ancak bu başka bir konu ne olursa olsun, bunu kabul etmeliyim.
+FastReader
 
-Bazı güncellemelerden sonra kısayollarımda sıklıkla aynı sorunu yaşıyorum. Ctrl + x for cut çalışmayı durdurur ve tekrar çalışmasını sağlamanın çözümü, .config dizinindeki kglobalshortcutsrc ve khotkeysrc'yi kaldırmaktır. Bunları kaldırdıktan sonra, tüm kısayollarımı yeniden başlatmam ve yeniden ayarlamam gerekiyor, bu da bunu sık sık yapmak için biraz zor. Ama ctrl + x, kullanmadan yaşayabileceğim kadar benim için çok önemli ^^.
+Metinleri daha hızlı okumaya yönelik yapılan çalışmalarda gözün tek bir noktaya odaklanması ve o noktadan kelimelerin sırayla geçmesi, hem okuma hızını ciddi ölçüde artırıyor hem de gözü daha az yoruyor.
 
-Bu yüzden biraz acemiyim ve resmi olarak herhangi bir yerde hata talebinde bulunup bulunamayacağımı veya kde ekibinden birinin bunu yapıp yapamayacağını merak ediyordum. Belki başka birinin benzer bir sorunu vardır ve bu geçici çözümden ziyade bir çözümü vardır? 
+KULLANIMI ;
+
+" python3 main.py metin.txt 0.3 "
+
+    Birinci parametre olarak okumak istediğiniz metni bir .txt dosyasının içine atıp dosya adını,
+    İkinci parametre olarak ise kelimelerin değişme hızını vermeniz gerekiyor(saniye)
