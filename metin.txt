@@ -1,0 +1,5 @@
+Öncelikle plazmayı ve onunla birlikte gelen birçok aracı ve ince ayarı kesinlikle seviyorum. Bazen, tüm kurulumu daha minimalist hale getirmek için gerekli olmayan bazı kde uygulamalarını kaldırmanın daha kolay olacağını, ancak bu başka bir konu ne olursa olsun, bunu kabul etmeliyim.
+
+Bazı güncellemelerden sonra kısayollarımda sıklıkla aynı sorunu yaşıyorum. Ctrl + x for cut çalışmayı durdurur ve tekrar çalışmasını sağlamanın çözümü, .config dizinindeki kglobalshortcutsrc ve khotkeysrc'yi kaldırmaktır. Bunları kaldırdıktan sonra, tüm kısayollarımı yeniden başlatmam ve yeniden ayarlamam gerekiyor, bu da bunu sık sık yapmak için biraz zor. Ama ctrl + x, kullanmadan yaşayabileceğim kadar benim için çok önemli ^^.
+
+Bu yüzden biraz acemiyim ve resmi olarak herhangi bir yerde hata talebinde bulunup bulunamayacağımı veya kde ekibinden birinin bunu yapıp yapamayacağını merak ediyordum. Belki başka birinin benzer bir sorunu vardır ve bu geçici çözümden ziyade bir çözümü vardır? 
