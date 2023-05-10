@@ -6,6 +6,7 @@ _speed = sys.argv[2]
 
 if(platform.system() == "Linux"): cl = "clear"
 elif(platform.system() == "Windows"): cl = "cls"
+else : cl = "clear"
 
 def readFromFile(file,speed=1):
     f = open(file,'r')
